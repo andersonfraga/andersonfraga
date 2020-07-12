@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋
+
+💻 Software Developer <br>
+👨‍💻 [@EBANX](https://github.com/ebanx/) <br>
+🗺️ Curitiba - Brazil
+<br><br>
+Email me! 😁
 
 <!--
 **andersonfraga/andersonfraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
